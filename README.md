@@ -10,5 +10,5 @@ This work demonstrates how the selection of an appropriate speech feature can re
 * The project is licensed under the GNU General Public License v3.0.
 
 # **Citing Work**
-**Rahul Jaiswal, Performance Analysis of Deep Learning Based Speech Quality Model with Mixture of Features,
-24th IEEE International Symposium on Multimedia (2022), pp. 240-244.** https://ieeexplore.ieee.org/document/10019706
+* Rahul Jaiswal, Performance Analysis of Deep Learning Based Speech Quality Model with Mixture of Features,
+24th IEEE International Symposium on Multimedia (2022), pp. 240-244. https://ieeexplore.ieee.org/document/10019706
