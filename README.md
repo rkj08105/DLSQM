@@ -8,7 +8,7 @@ This work demonstrates how the selection of an appropriate speech feature can re
 
 ## **License**
 * The project is licensed under the GNU General Public License v3.0.
-* You may obtain a copy of the License at (https://www.gnu.org/licenses/gpl-3.0.en.html)
+* You may obtain a copy of the License at https://www.gnu.org/licenses/gpl-3.0.en.html
 
 # **Citing Work**
 * Rahul Jaiswal, Performance Analysis of Deep Learning Based Speech Quality Model with Mixture of Features,
